@@ -57,6 +57,7 @@
 }
 
 .arrow-button {
+    magin :18px;
     font-size: 20px;
     padding: 10px 20px;
     border: 2px solid #fff;
